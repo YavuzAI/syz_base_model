@@ -7,5 +7,5 @@
 
 **Note:** the main file is the main.ipynb notebook where all of the architecture goes on and we run that notebook, others are only modules for functions and the main.ipynb  calls those modules within.
 
-**Note:** function testing.py tests if the codes work in jupyter env, a lot of changes has been made utilizing this notebook.
+**Note:** function_testing.ipynb tests if the codes work in jupyter env, a lot of changes has been made utilizing this notebook.
   
